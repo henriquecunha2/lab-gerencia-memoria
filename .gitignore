@@ -1,0 +1,29 @@
+# binarios gerados pelo make
+base/a1_mapa/mapa
+base/a2_particoes/particoes
+base/a3_multiprog/modelo
+base/a3_multiprog/simula
+base/a4_base_limite/base_limite
+base/a4_base_limite/protecao
+base/a6_bitmap/teste_slide14
+base/a6_bitmap/bench
+base/a7_a8_lista/teste_slide14
+base/a7_a8_lista/teste_casos
+base/a7_a8_lista/troca
+base/a7_a8_lista/slide19
+base/a7_a8_lista/experimento
+solucao/a3_multiprog/modelo
+solucao/a3_multiprog/simula
+solucao/a4_base_limite/base_limite
+solucao/a6_bitmap/teste_slide14
+solucao/a6_bitmap/bench
+solucao/a7_a8_lista/teste_slide14
+solucao/a7_a8_lista/teste_casos
+solucao/a7_a8_lista/troca
+solucao/a7_a8_lista/slide19
+solucao/a7_a8_lista/experimento
+solucao/desafio_quickfit/experimento_quickfit
+
+# saidas geradas
+*.txt
+*.png
