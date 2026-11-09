@@ -415,7 +415,7 @@ Meça, após cada operação: a fragmentação externa, definida como 1 − (mai
 
 ## Desafio — Quick fit (slide 18)
 
-O desafio vale ponto extra e mostra, na prática, as duas desvantagens que o slide 18 aponta para o *quick fit*.
+Esse desafio mostra, na prática, as duas desvantagens que o slide 18 aponta para o *quick fit*.
 
 **Passo 1.** Acrescente `QUICK_FIT` ao seu gerenciador, com uma lista de lacunas para cada tamanho exato 4, 8, 16, 32 e 64 unidades, mais uma lista geral para os demais tamanhos. Um pedido de tamanho exato é atendido pela lista correspondente; os outros, por *first fit* na lista geral. Ao liberar, a lacuna vai para a lista do seu tamanho, **sem fusão** com as vizinhas.
 
