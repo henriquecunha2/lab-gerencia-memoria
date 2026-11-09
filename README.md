@@ -426,18 +426,3 @@ O desafio vale ponto extra e mostra, na prática, as duas desvantagens que o sli
 **Q.D1** Que métrica o *quick fit* melhora e qual ele piora? Use as suas medições.
 
 **Q.D2** O que a rotina do Passo 3 custa e o que ela recupera? Qual intervalo entre fusões você escolheria para essa carga?
-
-## Entrega e avaliação
-
-Entregue o link do repositório da dupla com todo o código, um `Makefile` que compile todas as atividades com `make` e o `RELATORIO.md` com as respostas e as saídas que as sustentam.
-
-| Parte | Peso |
-| --- | --- |
-| Atividades 1 a 3 (observação, partições e multiprogramação) | 20% |
-| Atividades 4 e 5 (relocação, proteção e troca) | 20% |
-| Atividade 6 (mapa de bits) | 15% |
-| Atividade 7 (lista encadeada, sem vazamentos no `valgrind`) | 20% |
-| Atividade 8 (algoritmos e experimento) | 25% |
-| Desafio (*quick fit*) | até +10% |
-
-Critérios: o código compila sem avisos com `-Wall -Wextra`; as saídas de verificação dos Passos 2 e 3 da Atividade 6 e do Passo 3 da Atividade 7 aparecem no relatório; cada resposta **Q** cita os números medidos pela dupla.
